@@ -6,7 +6,7 @@ to use docker and k8s. WSL2 however lacks components such as systemd.
 WSL2 requires windows version v2004 and above, as of writing you can attain this version using the Windows insider program. 
 To subscribe go to Settings -> Update & Security -> Windows Insider Program. 
 I'd recommend using the slow channel but remember, always backup your data first and 
-keep in mind that the insider program enables full telemetry and might brick your machine.
+keep in mind that the insider program enables full telemetry.
 
 ## Enabling WSL2
 Before or after upgrading windows you must enable the following windows features:
